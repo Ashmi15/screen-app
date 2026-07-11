@@ -16,10 +16,6 @@ struct ContentView: View {
 					.foregroundStyle(.white)
 					.bold()
 					.font(.largeTitle)
-				Text("Daniel Goh")
-					.font(.title.weight(.medium).width(.compressed))
-					.foregroundStyle(.secondary)
-					.padding()
 			}
         }
         .ignoresSafeArea()
